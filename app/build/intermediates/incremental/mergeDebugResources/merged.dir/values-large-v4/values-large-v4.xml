@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_column_width">180dp</dimen>
+    <dimen name="gallery_spacing">5dp</dimen>
+    <dimen name="gridPropertyHeight">65dp</dimen>
+    <dimen name="gridPropertyWidth">80dp</dimen>
+    <dimen name="pictureStreamWidth">165dp</dimen>
+    <dimen name="webviewDialogHeight">320dp</dimen>
+    <style name="DriveLensItem">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:padding">20dp</item>
+  </style>
+    <style name="GridPropertyToggle" parent="@style/PropertyToggle.Large"/>
+    <style name="LiveViewContinueButton">
+    <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+  </style>
+    <style name="PropertyListItem">
+    <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+    <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
+  </style>
+    <style name="ProperyListTitle">
+    <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+  </style>
+    <style name="RoProperty">
+    <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+  </style>
+    <style name="StreamItemLabel">
+    <item name="android:textAppearance">?android:attr/textAppearance</item>
+  </style>
+</resources>

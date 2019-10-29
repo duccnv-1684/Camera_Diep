@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values-large/styles.xml",
+                    "from": {
+                        "startLines": "18,28,30,38,34,24,43",
+                        "startColumns": "2,2,2,2,2,2,2",
+                        "startOffsets": "727,1053,1128,1388,1261,932,1595",
+                        "endLines": "22,28,32,41,36,26,45",
+                        "endColumns": "10,73,10,10,10,10,10",
+                        "endOffsets": "928,1124,1257,1591,1384,1049,1712"
+                    },
+                    "to": {
+                        "startLines": "8,13,14,17,21,24,27",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "356,562,638,772,980,1108,1230",
+                        "endLines": "12,13,16,20,23,26,29",
+                        "endColumns": "10,75,10,10,10,10,10",
+                        "endOffsets": "557,633,767,975,1103,1225,1347"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "22,23,19,18,20,21",
+                        "startColumns": "2,2,2,2,2,2",
+                        "startOffsets": "862,913,715,668,763,812",
+                        "endColumns": "50,43,47,46,48,49",
+                        "endOffsets": "910,954,760,712,809,859"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,108,154,204,253,304",
+                        "endColumns": "52,45,49,48,50,51",
+                        "endOffsets": "103,149,199,248,299,351"
+                    }
+                }
+            ]
+        }
+    ]
+}

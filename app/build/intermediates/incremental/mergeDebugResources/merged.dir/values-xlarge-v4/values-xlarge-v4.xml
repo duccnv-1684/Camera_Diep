@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_column_width">240dp</dimen>
+    <dimen name="gallery_spacing">10dp</dimen>
+    <dimen name="gridPropertyHeight">80dp</dimen>
+    <dimen name="gridPropertyWidth">100dp</dimen>
+    <dimen name="pictureStreamWidth">200dp</dimen>
+    <dimen name="webviewDialogHeight">400dp</dimen>
+</resources>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="captured_picture_duration_entries">
+    <item>-2</item>
+    <item>-1</item>
+    <item>2</item>
+    <item>4</item>
+    <item>6</item>
+    <item>8</item>
+    <item>10</item>
+    <item>15</item>
+    <item>20</item>
+  </string-array>
+    <string-array name="captured_picture_duration_labels">
+    <item>Never</item>
+    <item>Manual</item>
+    <item>2 seconds</item>
+    <item>4 seconds</item>
+    <item>6 seconds</item>
+    <item>8 seconds</item>
+    <item>10 seconds</item>
+    <item>15 seconds</item>
+    <item>20 seconds</item>
+  </string-array>
+    <string-array name="memory_picture_size_entries">
+    <item>1</item>
+    <item>2</item>
+    <item>4</item>
+  </string-array>
+    <string-array name="memory_picture_size_labels">
+    <item>Full</item>
+    <item>1/2</item>
+    <item>1/4</item>
+  </string-array>
+    <string-array name="picturestream_num_pictures_entries">
+    <item>0</item>
+    <item>2</item>
+    <item>4</item>
+    <item>6</item>
+    <item>8</item>
+    <item>10</item>
+    <item>15</item>
+    <item>20</item>
+  </string-array>
+    <string-array name="picturestream_num_pictures_labels">
+    <item>Disable</item>
+    <item>2</item>
+    <item>4</item>
+    <item>6</item>
+    <item>8</item>
+    <item>10</item>
+    <item>15</item>
+    <item>20</item>
+  </string-array>
+    <bool name="is_pro">true</bool>
+    <color name="actionBarBackground">#ffbbbbbb</color>
+    <color name="propertyListBackground">#aadddddd</color>
+    <color name="selectedValueBackground">#ffffffff</color>
+    <color name="windowBackground">#ffdddddd</color>
+    <dimen name="gallery_column_width">120dp</dimen>
+    <dimen name="gallery_spacing">3dp</dimen>
+    <dimen name="gridPropertyHeight">48dp</dimen>
+    <dimen name="gridPropertyWidth">60dp</dimen>
+    <dimen name="pictureStreamWidth">120dp</dimen>
+    <dimen name="webviewDialogHeight">240dp</dimen>
+    <item name="fragment_container" type="id"/>
+    <string name="about_dialog_copyright">Copyright \u00A9 2011 Nils Assbeck and Michael Z\u00F6ch</string>
+    <string name="about_dialog_message">Remote Your Cam USB allows you to control your Canon DSLR camera via USB directly form your Android tablet.</string>
+    <string name="about_dialog_version">Version %1$s</string>
+    <string name="activity_app_settings_title">Settings</string>
+    <string name="af_label">AF</string>
+    <string name="app_name">Remote Your Cam USB</string>
+    <string name="cancel">Cancel</string>
+    <string name="capture">Capture</string>
+    <string name="continue_liveview">Continue</string>
+    <string name="crash_dialog_comment_prompt">You might add your comments about the problem below or add your email address so we can contact:</string>
+    <string name="crash_dialog_ok_toast">Thank you!</string>
+    <string name="crash_dialog_text">An unexpected error occurred forcing the application to stop. Please help us fix this by sending us error data, all you have to do is click \'OK\'.</string>
+    <string name="crash_dialog_title">RYC USB has crashed</string>
+    <string name="crash_notif_text">Please click here to help fix the issue.</string>
+    <string name="crash_notif_ticker_text">Unexpected error, please send a report...</string>
+    <string name="crash_notif_title">RYC USB has crashed...</string>
+    <string name="dialog_no_camera_message">No compatible Canon or Nikon camera found. Is your camera connected via USB?</string>
+    <string name="dialog_no_camera_title">No camera found!</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="feedback_dialog_message">Want to help improving RYC USB? Then please give us feedback by sending us device information of your camera. Click the "Ok" button to open your preferred Email application.</string>
+    <string name="feedback_dialog_title">Help us improve RYC USB</string>
+    <string name="focus">Focus</string>
+    <string name="gallery_empty">No pictures found</string>
+    <string name="gallery_loading">Loading ...</string>
+    <string name="gallery_no_camera_connected">No camera connected</string>
+    <string name="gallery_reverse_sort_order">Reverse sort order</string>
+    <string name="hide">Hide</string>
+    <string name="launcher_label">RYC USB</string>
+    <string name="menu_about">About</string>
+    <string name="menu_changelog">Changelog</string>
+    <string name="menu_feedback">Give Feedback</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_settings">Settings</string>
+    <string name="ok">Ok</string>
+    <string name="pref_captured_picture_duration_label">Show captured picture</string>
+    <string name="pref_captured_picture_duration_summary">Seconds a captured picture is displayed during Live View</string>
+    <string name="pref_category_liveview_title">Live View</string>
+    <string name="pref_category_memory_title">Memory constraints</string>
+    <string name="pref_category_picturestream_title">Picture Stream</string>
+    <string name="pref_memory_picture_size_label">Picture size</string>
+    <string name="pref_memory_picture_size_summary">Size of captured pictures in Live View and Gallery</string>
+    <string name="pref_picturestream_num_pictures_label">Number of pictures</string>
+    <string name="pref_picturestream_num_pictures_summary">Number of pictures to display in stream. Use lower number if memory is an issue.</string>
+    <string name="pref_picturestream_show_filename_label">Filename</string>
+    <string name="pref_picturestream_show_filename_summary">Show filename in bottom right corner</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="worker_content_text">Is running!</string>
+    <string name="worker_content_title">@string/launcher_label</string>
+    <string name="worker_ticker">RYC is running</string>
+    <style name="DriveLensItem">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:padding">15dp</item>
+  </style>
+    <style name="GridPropertyToggle" parent="@style/PropertyToggle.Medium"/>
+    <style name="LiveViewContinueButton">
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+  </style>
+    <style name="PropertyListItem">
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    <item name="android:minHeight">32dp</item>
+  </style>
+    <style name="PropertyListTitle">
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+  </style>
+    <style name="PropertyToggle">
+    <item name="android:textOn"/>
+    <item name="android:textOff"/>
+    <item name="android:layout_width">@dimen/gridPropertyWidth</item>
+    <item name="android:layout_height">@dimen/gridPropertyHeight</item>
+    <item name="android:gravity">center</item>
+    <item name="android:text">" "</item>
+  </style>
+    <style name="PropertyToggle.Large">
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+  </style>
+    <style name="PropertyToggle.Medium">
+    <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+  </style>
+    <style name="RoProperty">
+    <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+  </style>
+    <style name="StreamItemLabel">
+    <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+  </style>
+    <style name="Theme.ActionBar.RYC" parent="android:style/Widget.Holo.Light.ActionBar">
+    <item name="android:background">@color/actionBarBackground</item>
+  </style>
+    <style name="Theme.RYC" parent="android:Theme.Holo.Light">
+    <item name="android:actionBarStyle">@style/Theme.ActionBar.RYC</item>
+    <item name="android:windowBackground">@drawable/window_background</item>
+  </style>
+</resources>

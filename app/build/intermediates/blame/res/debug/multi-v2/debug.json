@@ -1,0 +1,195 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values/arrays.xml",
+                    "from": {
+                        "startLines": "29,18,65,60,50,40",
+                        "startColumns": "2,2,2,2,2,2",
+                        "startOffsets": "982,668,1836,1703,1471,1234",
+                        "endLines": "39,28,69,64,59,49",
+                        "endColumns": "17,17,17,17,17,17",
+                        "endOffsets": "1231,979,1960,1833,1700,1468"
+                    },
+                    "to": {
+                        "startLines": "2,13,24,29,34,44",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,309,625,754,889,1123",
+                        "endLines": "12,23,28,33,43,53",
+                        "endColumns": "17,17,17,17,17,17",
+                        "endOffsets": "304,620,749,884,1118,1357"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "42,43,41,69,30,19,22,26,27,88,89,87,86,85,83,84,51,50,65,47,46,25,63,64,66,62,31,20,36,37,34,38,35,21,71,72,70,78,73,79,80,74,75,76,77,54,59,58,57",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "1484,1590,1424,2949,1070,715,851,949,991,4536,4687,4344,4279,4195,4036,4128,2164,2098,2788,1845,1773,911,2676,2734,2854,2604,1108,770,1264,1307,1161,1358,1215,819,3077,3162,3012,3767,3284,3839,3909,3359,3442,3589,3663,2321,2526,2456,2401",
+                        "endColumns": "105,154,59,62,37,54,39,41,52,150,58,191,64,83,91,66,127,65,65,223,71,37,57,53,73,71,35,48,42,50,53,40,48,31,84,121,64,71,74,69,109,82,146,73,103,47,57,69,54",
+                        "endOffsets": "1587,1742,1481,3009,1105,767,888,988,1041,4684,4743,4533,4341,4276,4125,4192,2289,2161,2851,2066,1842,946,2731,2785,2925,2673,1141,816,1304,1355,1212,1396,1261,848,3159,3281,3074,3836,3356,3906,4016,3439,3586,3660,3764,2366,2581,2523,2453"
+                    },
+                    "to": {
+                        "startLines": "66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1975,2083,2240,2302,2367,2407,2464,2506,2550,2605,2758,2819,3013,3080,3166,3260,3329,3459,3527,3595,3821,3895,3935,3995,4051,4127,4201,4239,4290,4335,4388,4444,4487,4538,4572,4659,4783,4850,4924,5001,5073,5185,5270,5419,5495,5601,5651,5711,5783",
+                        "endColumns": "107,156,61,64,39,56,41,43,54,152,60,193,66,85,93,68,129,67,67,225,73,39,59,55,75,73,37,50,44,52,55,42,50,33,86,123,66,73,76,71,111,84,148,75,105,49,59,71,56",
+                        "endOffsets": "2078,2235,2297,2362,2402,2459,2501,2545,2600,2753,2814,3008,3075,3161,3255,3324,3454,3522,3590,3816,3890,3930,3990,4046,4122,4196,4234,4285,4330,4383,4439,4482,4533,4567,4654,4778,4845,4919,4996,5068,5180,5265,5414,5490,5596,5646,5706,5778,5835"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "18,37,47,32,28,51,39,43,24,60,69,64",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "727,1358,1698,1183,1054,1832,1434,1566,932,2187,2537,2313",
+                        "endLines": "22,37,49,35,30,58,41,45,26,62,71,67",
+                        "endColumns": "10,74,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "928,1430,1828,1354,1179,2183,1562,1694,1050,2309,2703,2533"
+                    },
+                    "to": {
+                        "startLines": "115,120,121,124,128,131,139,142,145,148,151,154",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5840,6046,6123,6258,6434,6564,6908,7041,7174,7297,7424,7595",
+                        "endLines": "119,120,123,127,130,138,141,144,147,150,153,157",
+                        "endColumns": "10,76,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "6041,6118,6253,6429,6559,6903,7036,7169,7292,7419,7590,7815"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values/config.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "2",
+                        "startOffsets": "668",
+                        "endColumns": "33",
+                        "endOffsets": "699"
+                    },
+                    "to": {
+                        "startLines": "54",
+                        "startColumns": "4",
+                        "startOffsets": "1362",
+                        "endColumns": "35",
+                        "endOffsets": "1393"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "20,19,21,18",
+                        "startColumns": "2,2,2,2",
+                        "startOffsets": "776,719,830,668",
+                        "endColumns": "53,56,57,50",
+                        "endOffsets": "827,773,885,716"
+                    },
+                    "to": {
+                        "startLines": "55,56,57,58",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1398,1454,1513,1573",
+                        "endColumns": "55,58,59,52",
+                        "endOffsets": "1449,1508,1568,1621"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "2",
+                        "startOffsets": "668",
+                        "endColumns": "45",
+                        "endOffsets": "711"
+                    },
+                    "to": {
+                        "startLines": "65",
+                        "startColumns": "4",
+                        "startOffsets": "1927",
+                        "endColumns": "47",
+                        "endOffsets": "1970"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "22,23,19,18,20,21",
+                        "startColumns": "2,2,2,2,2,2",
+                        "startOffsets": "862,913,715,668,763,812",
+                        "endColumns": "50,43,47,46,48,49",
+                        "endOffsets": "910,954,760,712,809,859"
+                    },
+                    "to": {
+                        "startLines": "59,60,61,62,63,64",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1626,1679,1725,1775,1824,1875",
+                        "endColumns": "52,45,49,48,50,51",
+                        "endOffsets": "1674,1720,1770,1819,1870,1922"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values-large/styles.xml",
+                    "from": {
+                        "startLines": "18,28,30,38,34,24,43",
+                        "startColumns": "2,2,2,2,2,2,2",
+                        "startOffsets": "727,1053,1128,1388,1261,932,1595",
+                        "endLines": "22,28,32,41,36,26,45",
+                        "endColumns": "10,73,10,10,10,10,10",
+                        "endOffsets": "928,1124,1257,1591,1384,1049,1712"
+                    },
+                    "to": {
+                        "startLines": "8,13,14,17,21,24,27",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "356,562,638,772,980,1108,1230",
+                        "endLines": "12,13,16,20,23,26,29",
+                        "endColumns": "10,75,10,10,10,10,10",
+                        "endOffsets": "557,633,767,975,1103,1225,1347"
+                    }
+                },
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "22,23,19,18,20,21",
+                        "startColumns": "2,2,2,2,2,2",
+                        "startOffsets": "862,913,715,668,763,812",
+                        "endColumns": "50,43,47,46,48,49",
+                        "endOffsets": "910,954,760,712,809,859"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,108,154,204,253,304",
+                        "endColumns": "52,45,49,48,50,51",
+                        "endOffsets": "103,149,199,248,299,351"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/values-xlarge/dimens.xml",
+                    "from": {
+                        "startLines": "22,23,19,18,20,21",
+                        "startColumns": "2,2,2,2,2,2",
+                        "startOffsets": "863,914,716,668,764,813",
+                        "endColumns": "50,44,47,47,48,49",
+                        "endOffsets": "911,956,761,713,810,860"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,108,155,205,255,306",
+                        "endColumns": "52,46,49,49,50,51",
+                        "endOffsets": "103,150,200,250,301,353"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1094 @@
+[
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_60.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_60.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_landscape.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_landscape.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_bulb.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_bulb.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_sports.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_sports.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_flash_off.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_flash_off.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_shade.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_shade.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_session_frag.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/session_frag.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_cloudy.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_cloudy.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_gallery_list_item.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/gallery_list_item.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_af_3d_tracking.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_af_3d_tracking.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_40.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_40.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_exposure_matrix_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_exposure_matrix_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_af_3d_tracking.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_af_3d_tracking.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_close_up.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_close_up.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_70.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_70.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_af_single_point.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_af_single_point.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_ca.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_ca.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_manual5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_manual5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_av.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_av.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_custom1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_custom1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_10.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_10.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_daylight.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_daylight.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_thumbnail_list_item.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/thumbnail_list_item.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_0.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_0.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_80.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_80.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_av.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_av.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_90.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_90.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_sports.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_sports.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_ca.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_ca.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_tungsten.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_tungsten.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_30.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_30.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_session.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/session.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_af_auto_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_af_auto_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_90.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_90.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_bulb.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_bulb.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_tv.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_tv.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_custom2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_custom2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_30.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_30.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_bulb.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_bulb.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_divider_arrow_right.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/divider_arrow_right.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_manual4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_manual4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_flash.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_flash.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_about_dialog.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/about_dialog.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_flash.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_flash.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_creativeauto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_creativeauto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_50.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_50.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_creativeauto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_creativeauto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_pro_white.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/icon_pro_white.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_arrow1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/arrow1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_40.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_40.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_bulb.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_bulb.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_lock.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_lock.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_creativeauto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_creativeauto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_dep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_dep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_tv.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_tv.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_exposure_center_weighted_average_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_exposure_center_weighted_average_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_50.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_50.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable_window_background.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable/window_background.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_close_up.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_close_up.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_90.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_90.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_arrow2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/arrow2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_drive_lens_pane.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/drive_lens_pane.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_af_dynamic_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_af_dynamic_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_20.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_20.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_exposure_matrix_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_exposure_matrix_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_exposure_spot.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_exposure_spot.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_30.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_30.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_program.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_program.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_gallery_frag.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/gallery_frag.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_fluorescent.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_fluorescent.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_10.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_10.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_ca.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_ca.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_program.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_program.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_manual1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_manual1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_100.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_100.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout-large_session_frag.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout-large/session_frag.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_arrow2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/arrow2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_picture_frag.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/picture_frag.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_exposure_center_weighted_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_exposure_center_weighted_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_100.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_100.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_lock.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_lock.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_shade.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_shade.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_exposure_center_weighted_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_exposure_center_weighted_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_manual2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_manual2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_exposure_spot.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_exposure_spot.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_custom4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_custom4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_50.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_50.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_arrow3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/arrow3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_arrow3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/arrow3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_exposure_center_weighted_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_exposure_center_weighted_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_close_up.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_close_up.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_daylight.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_daylight.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_exposure_evaluative_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_exposure_evaluative_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_divider_arrow_right.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/divider_arrow_right.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_exposure_center_weighted_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_exposure_center_weighted_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_tungsten.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_tungsten.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_100.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_100.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_shade.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_shade.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_arrow1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/arrow1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_70.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_70.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_50.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_50.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_0.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_0.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_fluorescent.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_fluorescent.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_100.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_100.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_manual3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_manual3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_night_scene_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_night_scene_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_exposure_evaluative_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_exposure_evaluative_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_pro_white.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xhdpi/icon_pro_white.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_af_single_point.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_af_single_point.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_m.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_m.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_custom3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_custom3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_90.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_90.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_arrow2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/arrow2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_daylight.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_daylight.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_custom5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_custom5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_cloudy.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_cloudy.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_sports.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_sports.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_lock.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_lock.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_exposure_spot.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_exposure_spot.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_landscape.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_landscape.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_m.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_m.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_custom2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_custom2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_manual2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_manual2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_manual4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_manual4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_flash.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_flash.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_adep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_adep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_10.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_10.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_program.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_program.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_divider_background.9.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/divider_background.9.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_exposure_center_weighted_average_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_exposure_center_weighted_average_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_m.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_m.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_ca.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_ca.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_exposure_evaluative_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_exposure_evaluative_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_custom2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_custom2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_av.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_av.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_arrow1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/arrow1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_manual1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_manual1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_exposure_center_weighted_average_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_exposure_center_weighted_average_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_custom1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_custom1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_manual1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_manual1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_exposure_spot.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_exposure_spot.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_arrow2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/arrow2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_cloudy.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_cloudy.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_manual5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_manual5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_30.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_30.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_10.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_10.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_landscape.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_landscape.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_exposure_evaluative_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_exposure_evaluative_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_af_auto_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_af_auto_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_60.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_60.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_custom5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_custom5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_manual4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_manual4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_custom1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_custom1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_20.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_20.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_60.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_60.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_arrow3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/arrow3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_70.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_70.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_arrow3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/arrow3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_custom4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_custom4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_manual3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_manual3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_80.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_80.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_af_auto_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_af_auto_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_m.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_m.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_color_temperature.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_color_temperature.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_af_3d_tracking.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_af_3d_tracking.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_exposure_matrix_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_exposure_matrix_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_af_dynamic_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_af_dynamic_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_adep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_adep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_af_single_point.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_af_single_point.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_70.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_70.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_sports.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_sports.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_flash_off.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_flash_off.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_custom3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_custom3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_manual3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_manual3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_creativeauto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_creativeauto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_custom3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_custom3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_manual2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_manual2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_custom5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_custom5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_tv.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_tv.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_webview_dialog.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/webview_dialog.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_exposure_partial.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_exposure_partial.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_flash_off.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_flash_off.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_80.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_80.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/xml_app_settings_preferences.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/xml/app_settings_preferences.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_60.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_60.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_custom2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_custom2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_adep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_adep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_dep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_dep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_af_3d_tracking.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_af_3d_tracking.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable_batterylevel.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable/batterylevel.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_lock.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_lock.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_manual4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_manual4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_custom4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_custom4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_tungsten.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_tungsten.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_av.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_av.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_dep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_dep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_color_temperature.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_color_temperature.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_shade.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_shade.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_manual5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_manual5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_pro_white.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/icon_pro_white.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_40.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_40.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_night_scene_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_night_scene_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_manual1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_manual1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_custom1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_custom1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_daylight.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_daylight.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_af_dynamic_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_af_dynamic_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_arrow1.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/arrow1.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_manual5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_manual5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_divider_background.9.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/divider_background.9.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_fluorescent.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_fluorescent.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_night_scene_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_night_scene_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_batterylevel_20.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/batterylevel_20.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_exposure_matrix_nikon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_exposure_matrix_nikon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_close_up.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_close_up.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_whitebalance_custom5.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/whitebalance_custom5.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_flash.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_flash.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_af_auto_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_af_auto_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_color_temperature.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_color_temperature.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_color_temperature.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_color_temperature.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_20.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_20.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_exposure_center_weighted_average_canon.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_exposure_center_weighted_average_canon.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_shootingmode_landscape.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/shootingmode_landscape.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_manual2.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_manual2.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_fluorescent.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_fluorescent.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_property_icon_list_item.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/property_icon_list_item.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_adep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_adep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_metering_af_single_point.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/metering_af_single_point.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_properties_grid.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/properties_grid.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_program.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_program.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_night_scene_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_night_scene_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_af_dynamic_area.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_af_dynamic_area.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_tungsten.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_tungsten.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_custom4.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_custom4.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_shootingmode_dep.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/shootingmode_dep.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_flash_off.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_flash_off.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_batterylevel_0.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/batterylevel_0.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_property_listview.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/property_listview.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_80.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_80.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_unknown.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_unknown.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_batterylevel_40.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/batterylevel_40.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_batterylevel_0.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/batterylevel_0.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_metering_exposure_partial.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/metering_exposure_partial.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_whitebalance_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/whitebalance_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_whitebalance_custom3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/whitebalance_custom3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-hdpi_shootingmode_tv.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-hdpi/shootingmode_tv.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_auto.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_auto.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_property_list_item.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/property_list_item.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_shootingmode_portrait.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/shootingmode_portrait.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-mdpi_metering_exposure_partial.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-mdpi/metering_exposure_partial.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_cloudy.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_cloudy.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/layout_liveview.xml.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/layout/liveview.xml"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-hdpi_whitebalance_manual3.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-hdpi/whitebalance_manual3.png"
+    },
+    {
+        "merged": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi_metering_exposure_partial.png.flat",
+        "source": "/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/res/drawable-xlarge-mdpi/metering_exposure_partial.png"
+    }
+]

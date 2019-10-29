@@ -1,0 +1,124 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  Copyright 2013 Nils Assbeck, Guersel Ayaz and Michael Zoech
+4
+5  Licensed under the Apache License, Version 2.0 (the "License");
+6  you may not use this file except in compliance with the License.
+7  You may obtain a copy of the License at
+8
+9      http://www.apache.org/licenses/LICENSE-2.0
+10
+11  Unless required by applicable law or agreed to in writing, software
+12  distributed under the License is distributed on an "AS IS" BASIS,
+13  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  See the License for the specific language governing permissions and
+15  limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.remoteyourcam.usb"
+19    android:versionCode="10"
+20    android:versionName="0.3.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="12"
+23-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="12" />
+24-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml
+25
+26    <uses-feature android:name="android.hardware.usb.host" />
+26-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:22:3-59
+26-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:22:17-57
+27
+28    <supports-screens
+28-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:24:3-28:35
+29        android:largeScreens="true"
+29-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:25:5-32
+30        android:normalScreens="true"
+30-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:26:5-33
+31        android:smallScreens="false"
+31-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:27:5-33
+32        android:xlargeScreens="true" />
+32-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:28:5-33
+33
+34    <!-- For Feedback -->
+35    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+35-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:31:3-78
+35-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:31:20-76
+36    <!-- For Acra -->
+37    <uses-permission android:name="android.permission.INTERNET" />
+37-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:33:3-64
+37-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:33:20-62
+38
+39    <application
+39-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:35:3-70:17
+40        android:name="com.remoteyourcam.usb.RycApplication"
+40-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:36:5-56
+41        android:debuggable="true"
+42        android:icon="@drawable/icon"
+42-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:37:5-34
+43        android:label="@string/app_name"
+43-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:38:5-37
+44        android:largeHeap="true"
+44-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:39:5-29
+45        android:testOnly="true"
+46        android:theme="@style/Theme.RYC" >
+46-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:40:5-37
+47        <activity
+47-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:41:5-59:16
+48            android:name="com.remoteyourcam.usb.MainActivity"
+48-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:42:7-56
+49            android:configChanges="orientation"
+49-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:43:7-42
+50            android:label="@string/launcher_label"
+50-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:44:7-45
+51            android:launchMode="singleTask"
+51-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:45:7-38
+52            android:screenOrientation="sensorLandscape" >
+52-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:46:7-50
+53            <intent-filter>
+53-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:47:7-51:23
+54                <action android:name="android.intent.action.MAIN" />
+54-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:48:9-60
+54-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:48:17-58
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:50:9-68
+56-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:50:19-66
+57            </intent-filter>
+58            <intent-filter>
+58-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:52:7-54:23
+59                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+59-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:53:9-81
+59-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:53:17-79
+60            </intent-filter>
+61
+62            <meta-data
+62-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:56:7-58:48
+63                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+63-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:57:9-71
+64                android:resource="@xml/device_filter" />
+64-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:58:9-46
+65        </activity>
+66        <activity
+66-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:60:5-63:52
+67            android:name="com.remoteyourcam.usb.activities.AppSettingsActivity"
+67-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:61:7-74
+68            android:label="@string/activity_app_settings_title"
+68-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:62:7-58
+69            android:screenOrientation="sensorLandscape" />
+69-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:63:7-50
+70        <activity
+70-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:64:5-69:52
+71            android:name="org.acra.CrashReportDialog"
+71-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:65:7-48
+72            android:excludeFromRecents="true"
+72-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:66:7-40
+73            android:finishOnTaskLaunch="true"
+73-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:67:7-40
+74            android:launchMode="singleInstance"
+74-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:68:7-42
+75            android:theme="@android:style/Theme.Dialog" />
+75-->/Users/ducnguyen2102/AndroidStudioProjects/remoteyourcam-usb1/app/src/main/AndroidManifest.xml:69:7-50
+76    </application>
+77
+78</manifest>
